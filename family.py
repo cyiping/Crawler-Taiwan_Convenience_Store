@@ -2,7 +2,7 @@
 """
 Created on Sun Mar 29 21:42:02 2020
 
-@author: User
+@author: Wacken Security Ltd.
 """
 import requests
 from  bs4 import BeautifulSoup
